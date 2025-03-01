@@ -4,7 +4,7 @@ import {Box, Heading} from '@chakra-ui/react'
 const Home = () => {
   return (
     <Box>
-        <Heading> MyBookStore</Heading>
+        {/* <Heading> MyBookStore</Heading> */}
     </Box>
   )
 }
